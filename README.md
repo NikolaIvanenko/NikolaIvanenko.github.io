@@ -1,2 +1,2 @@
-# NikolaIvanenko.github.io
-Мой первый опубликованный сайт
+# Nikolay Ivanenko
+Мои домашние задания
