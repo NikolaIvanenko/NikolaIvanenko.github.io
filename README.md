@@ -7,7 +7,7 @@
 
 [Урок13](https://nikolaivanenko.github.io/src/ "Моё готовое дз(урок 13)")
 
-[Урок14](NikolaIvanenko.github.io/lesson 14/src/ "Моё готовое дз(урок 14)")
+[Урок14](https://nikolaivanenko.github.io/lesson%2014/src/ "Моё готовое дз(урок 14)")
 
 
 
