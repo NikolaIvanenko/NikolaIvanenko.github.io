@@ -9,6 +9,6 @@
 
 [Урок14](https://nikolaivanenko.github.io/lesson%2014/src/ "Моё готовое дз(урок 14)")
 
-[Урок15](https://nikolaivanenko.github.io/lesson%2014/src/ "Моё готовое дз(урок 15)")
+[Урок15](https://nikolaivanenko.github.io/fonts-viewer/ "Моё готовое дз(урок 15)")
 
 
