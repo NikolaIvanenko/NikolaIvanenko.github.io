@@ -11,4 +11,8 @@
 
 [Урок15](https://nikolaivanenko.github.io/fonts-viewer/ "Моё готовое дз(урок 15)")
 
+[Урок 19](https://nikolaivanenko.github.io/src/ "Моё готовое дз(урок 19)") - Модуль5. Практика. Часть2
+
+
+
 
