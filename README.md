@@ -17,3 +17,4 @@
 
 [Урок 21](https://nikolaivanenko.github.io/lesson%2014/src/ "Моё готовое дз(урок 21)") 
 
+[Урок 22](https://nikolaivanenko.github.io/lesson%2014/src/ "Моё готовое дз(урок 22)") 
