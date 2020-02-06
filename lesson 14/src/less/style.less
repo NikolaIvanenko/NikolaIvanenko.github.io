@@ -72,6 +72,12 @@ html{
 section{
 	padding: 10rem 0;
 }
+.section-header{
+	margin: 2rem 0 10rem;
+	.bold();
+	font-size: 3.6rem;
+	text-align: center;
+}
 
 
 /* main */
@@ -85,7 +91,7 @@ section{
 		h1{
 			margin-bottom: 4rem;
 			.bold();
-			font-size: 4rem;
+			font-size: 35px;
 			line-height: 1.45;
 			text-transform: uppercase;
 		}
@@ -190,7 +196,53 @@ section{
 	color: @text;
 	}	
 }
-
+// Оформление секции с преимуществами
+.features{
+	&-block{
+		text-align: center;
+		h3{
+			font-size: 1.8rem;
+			.bold();
+			margin-bottom: 3rem;
+		}
+		p{
+			display: inline-block;
+			width: 80%;
+			font-size: 1.2rem;
+		}
+	}
+	&-img{
+		height: 8rem;
+		margin-bottom: 3rem;
+		img{
+			display: block;
+			margin: 0 auto 3rem;
+		}
+	}
+}
+.slick-active{
+	outline: none;
+}
+.arrow{
+	top: 50%;
+	transform: translateY(-50%);
+	position: absolute;
+	z-index: 999;
+	width: 2rem;
+	height: 2rem;
+	border: none;
+	background-size: 70%;
+}
+.prev{
+	left: 0;
+	background: url(../img/left-arrow.svg) center no-repeat;
+	background-size: 70%;
+}
+.next{
+	right: 0;
+	background: url(../img/right-arrow.svg) center no-repeat;
+	background-size: 70%;
+}
 @media(max-width: 991px){
 	.main{
 		background-position: top right;

@@ -47,6 +47,12 @@ a:focus {
 section {
   padding: 10rem 0;
 }
+.section-header {
+  margin: 2rem 0 10rem;
+  font-family: 'ProximaNova_bold', sans-serif;
+  font-size: 3.6rem;
+  text-align: center;
+}
 /* main */
 .main {
   padding: 3rem 0 5rem;
@@ -64,7 +70,7 @@ section {
 .main-content h1 {
   margin-bottom: 4rem;
   font-family: 'ProximaNova_bold', sans-serif;
-  font-size: 4rem;
+  font-size: 35px;
   line-height: 1.45;
   text-transform: uppercase;
 }
@@ -155,6 +161,50 @@ section {
   height: 7rem;
   line-height: 7rem;
   color: #292929;
+}
+.features-block {
+  text-align: center;
+}
+.features-block h3 {
+  font-size: 1.8rem;
+  font-family: 'ProximaNova_bold', sans-serif;
+  margin-bottom: 3rem;
+}
+.features-block p {
+  display: inline-block;
+  width: 80%;
+  font-size: 1.2rem;
+}
+.features-img {
+  height: 8rem;
+  margin-bottom: 3rem;
+}
+.features-img img {
+  display: block;
+  margin: 0 auto 3rem;
+}
+.slick-active {
+  outline: none;
+}
+.arrow {
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  z-index: 999;
+  width: 2rem;
+  height: 2rem;
+  border: none;
+  background-size: 70%;
+}
+.prev {
+  left: 0;
+  background: url(../img/left-arrow.svg) center no-repeat;
+  background-size: 70%;
+}
+.next {
+  right: 0;
+  background: url(../img/right-arrow.svg) center no-repeat;
+  background-size: 70%;
 }
 @media (max-width: 991px) {
   .main {
